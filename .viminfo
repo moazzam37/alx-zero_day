@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1650182260,,"wq"
+|2,0,1651191436,,"wq"
 :q
 |2,0,1650181988,,"q"
 :w
@@ -30,234 +30,478 @@
 
 # Registers:
 ""-	CHAR	0
-	e
-|3,1,36,0,1,0,1650151032,"e"
+	o
+|3,1,36,0,1,0,1650184690,"o"
 
 # File marks:
-'0  2  7  ~/alx-system_engineering-devops/0-iam_betty
-|4,48,2,7,1650182260,"~/alx-system_engineering-devops/0-iam_betty"
-'1  2  70  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,49,2,70,1650181988,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
-'2  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,50,1,0,1650152201,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'3  1  9  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,51,1,9,1650151073,"~/alx-system_engineering-devops/.git/MERGE_MSG"
-'4  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,52,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
-'5  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,53,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
-'6  2  12  ~/alx-zero_day/school
-|4,54,2,12,1650137414,"~/alx-zero_day/school"
-'7  2  9  ~/alx-zero_day/alx
-|4,55,2,9,1650137310,"~/alx-zero_day/alx"
-'8  2  12  /alx-zero_day/0x03-git/school
-|4,56,2,12,1650117717,"/alx-zero_day/0x03-git/school"
-'9  2  12  /alx-zero_day/0x03-git/school
-|4,57,2,12,1650117082,"/alx-zero_day/0x03-git/school"
+'0  23  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,48,23,0,1651191436,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+'1  11  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,49,11,0,1651190893,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'2  24  0  ~/alx-low_level_programming/0-memset.c
+|4,50,24,0,1651175212,"~/alx-low_level_programming/0-memset.c"
+'3  11  0  ~/alx-low_level_programming/main.h
+|4,51,11,0,1651174730,"~/alx-low_level_programming/main.h"
+'4  11  0  ~/alx-low_level_programming/main.h
+|4,52,11,0,1651173069,"~/alx-low_level_programming/main.h"
+'5  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,53,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+'6  1  0  /alx-low_level_programming/.git/MERGE_MSG
+|4,54,1,0,1651170524,"/alx-low_level_programming/.git/MERGE_MSG"
+'7  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,55,1,0,1651170349,"/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'8  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,56,1,0,1651112599,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+'9  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,57,1,0,1651112599,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
 
 # Jumplist (newest first):
--'  2  7  ~/alx-system_engineering-devops/0-iam_betty
-|4,39,2,7,1650182260,"~/alx-system_engineering-devops/0-iam_betty"
--'  1  0  ~/alx-system_engineering-devops/0-iam_betty
-|4,39,1,0,1650182225,"~/alx-system_engineering-devops/0-iam_betty"
--'  2  70  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,2,70,1650181988,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  2  70  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,2,70,1650181988,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,1,0,1650181551,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  1  0  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,1,0,1650181551,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1650152201,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1650152201,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1650152201,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  0  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,0,1650152201,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  9  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,9,1650151073,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  9  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,9,1650151073,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  9  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,9,1650151073,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  1  9  ~/alx-system_engineering-devops/.git/MERGE_MSG
-|4,39,1,9,1650151073,"~/alx-system_engineering-devops/.git/MERGE_MSG"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  1  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,2,1,1650144839,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
-|4,39,1,0,1650144774,"~/alx-system_engineering-devops/0x00-shell_basics/1-listit"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1650142682,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  1  0  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,1,0,1650142571,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  23  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,23,0,1651191436,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651191141,"~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  11  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,11,0,1651190893,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  11  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,11,0,1651190893,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1651190679,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  1  0  ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+|4,39,1,0,1651190679,"~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h"
+-'  24  0  ~/alx-low_level_programming/0-memset.c
+|4,39,24,0,1651175212,"~/alx-low_level_programming/0-memset.c"
+-'  24  0  ~/alx-low_level_programming/0-memset.c
+|4,39,24,0,1651175212,"~/alx-low_level_programming/0-memset.c"
+-'  24  0  ~/alx-low_level_programming/0-memset.c
+|4,39,24,0,1651175212,"~/alx-low_level_programming/0-memset.c"
+-'  24  0  ~/alx-low_level_programming/0-memset.c
+|4,39,24,0,1651175212,"~/alx-low_level_programming/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0-memset.c
+|4,39,1,0,1651174864,"~/alx-low_level_programming/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0-memset.c
+|4,39,1,0,1651174864,"~/alx-low_level_programming/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0-memset.c
+|4,39,1,0,1651174864,"~/alx-low_level_programming/0-memset.c"
+-'  1  0  ~/alx-low_level_programming/0-memset.c
+|4,39,1,0,1651174864,"~/alx-low_level_programming/0-memset.c"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651174730,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  11  0  ~/alx-low_level_programming/main.h
+|4,39,11,0,1651173069,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  1  0  ~/alx-low_level_programming/main.h
+|4,39,1,0,1651172767,"~/alx-low_level_programming/main.h"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  24  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,24,0,1651171317,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
+-'  1  0  /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+|4,39,1,0,1651170640,"/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+	*	1651191432	0
+	"	23	0
+	^	23	0
+	.	22	1
+	+	12	1
+	+	21	1
+	+	22	1
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+	*	1651190887	0
+	"	11	0
+	^	11	0
+	.	10	36
+	+	10	36
+
+> ~/alx-low_level_programming/0-memset.c
+	*	1651175207	0
+	"	24	0
+	^	24	0
+	.	23	1
+	+	17	2
+	+	18	36
+	+	23	1
+
+> ~/alx-low_level_programming/main.h
+	*	1651174721	0
+	"	11	0
+	^	11	0
+	.	10	32
+	+	1	21
+	+	10	32
+
+> /alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
+	*	1651171311	0
+	"	24	0
+	^	24	0
+	.	23	1
+	+	1	402
+	+	1	0
+	+	3	47
+	+	4	37
+	+	8	3
+	+	23	0
+	+	24	0
+	+	23	1
+
+> /alx-low_level_programming/.git/MERGE_MSG
+	*	1651170518	0
+	"	1	0
+	^	1	21
+	.	1	20
+	+	1	20
+
+> /alx-low_level_programming/0x07-pointers_arrays_strings/main.h
+	*	1651170342	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/_putchar.c
+	*	1651111093	0
+	"	14	0
+	^	14	0
+	.	13	1
+	+	13	1
+
+> ~/alx-low_level_programming/0x07-pointers_arrays_strings/2-strchr.c
+	*	1651108819	0
+	"	32	0
+	^	32	0
+	.	31	1
+	+	31	1
+
+> ~/alx-zero_day/school
+	*	1650418714	0
+	"	2	11
+	^	2	12
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/alx
+	*	1650418660	0
+	"	2	8
+	^	2	9
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/0x03-git/js/school
+	*	1650417653	0
+	"	2	12
+	^	2	13
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/0x03-git/js/alx
+	*	1650417558	0
+	"	2	9
+	^	2	10
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/0x03-git/bash/school
+	*	1650250938	0
+	"	2	12
+	^	2	13
+	.	2	0
+	+	2	12
+	+	2	0
+
+> ~/alx-zero_day/0x03-git/bash/alx
+	*	1650250823	0
+	"	2	9
+	^	2	10
+	.	2	0
+	+	2	9
+	+	2	0
+
+> ~/alx-system_engineering-devops/.git/MERGE_MSG
+	*	1650197085	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
+	*	1650196916	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
+	*	1650196394	0
+	"	2	28
+	^	2	29
+	.	2	28
+	+	2	29
+	+	2	28
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
+	*	1650195796	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
+	*	1650194920	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
+	*	1650193127	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+	*	1650192813	0
+	"	3	0
+	^	3	0
+	.	2	15
+	+	2	15
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody
+	*	1650189033	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+	*	1650188604	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
+
+> ~/alx-system_engineering-devops/7-everybody
+	*	1650188225	0
+	"	3	0
+	^	3	0
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/6-multiple_permissions
+	*	1650187918	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	2	15
+	+	1	9
+
+> ~/alx-system_engineering-devops/5-execute
+	*	1650186702	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
+	*	1650186430	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
+	*	1650186161	0
+	"	1	10
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/alx-system_engineering-devops/4-empty
+	*	1650185377	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
+	*	1650184858	0
+	"	2	21
+	^	2	22
+	.	2	9
+	+	2	9
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
+	*	1650183694	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
+
+> ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+	*	1650183338	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	2	5
 
 > ~/alx-system_engineering-devops/0-iam_betty
 	*	1650182252	0
@@ -272,13 +516,6 @@
 	^	2	71
 	.	2	70
 	+	2	70
-
-> ~/alx-system_engineering-devops/.git/MERGE_MSG
-	*	1650152196	0
-	"	1	0
-	^	1	0
-	.	1	10
-	+	1	10
 
 > ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
 	*	1650144834	0
@@ -295,20 +532,6 @@
 	+	3	2
 	+	2	3
 
-> ~/alx-zero_day/school
-	*	1650137409	0
-	"	2	12
-	^	2	13
-	.	2	0
-	+	2	0
-
-> ~/alx-zero_day/alx
-	*	1650137305	0
-	"	2	9
-	^	2	10
-	.	2	0
-	+	2	0
-
 > /alx-zero_day/0x03-git/school
 	*	1650117713	0
 	"	2	12
@@ -321,22 +544,6 @@
 	"	2	9
 	^	2	10
 	.	2	0
-	+	2	0
-
-> ~/alx-zero_day/0x03-git/bash/school
-	*	1650116191	0
-	"	2	12
-	^	2	13
-	.	2	0
-	+	2	12
-	+	2	0
-
-> ~/alx-zero_day/0x03-git/bash/alx
-	*	1650116122	0
-	"	2	9
-	^	2	10
-	.	2	0
-	+	2	9
 	+	2	0
 
 > /alx-zero_day/0x03-git/js/school
@@ -384,13 +591,6 @@
 > ~/alx-low_level_programming/0x04-more_functions_nested_loops/main.h
 	*	1650014629	0
 	"	1	0
-
-> /alx-low_level_programming/.git/MERGE_MSG
-	*	1649992320	0
-	"	1	20
-	^	1	21
-	.	1	20
-	+	1	20
 
 > ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
 	*	1649968991	0
